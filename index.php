@@ -59,6 +59,7 @@ font-size: 16px;"> <!--<a href="#" class="btn btn-primary square-btn-adjust">Log
                 <ul class="nav" id="main-menu">
 				<li class="text-center">
                     <img src="assets/img/find_user.png" class="user-image img-responsive"/>
+					<div style="color:#fff; margin-bottom:25px">Created by <a href="https://rolandoy.com" target="_blank">Roland</a> &copy; <?php echo date('Y') ?></div>
 					</li>
 				
 					
