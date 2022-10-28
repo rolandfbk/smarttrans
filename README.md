@@ -54,7 +54,3 @@ Setup
 ## Show your support
 
 >Give a ⭐️ if you like this project!
-
-## Acknowledgement
-
-> Greatful to Sharifa for inspiring me to bult this project
