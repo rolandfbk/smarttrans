@@ -1,8 +1,8 @@
 # SmartTrans
 
-> SmartTrans is a truck asset and freight management system that help to keep track of all the vehicules, and also to create a work order that will help the truck driver to go and pickup the load and deliver it to the delivery location. Once the load delivered, the controller user can send the work order to the Account department. That Accountant user can generate an invoice for the client and save data to the Pastel Account posgresql database.
+> SmartTrans is a truck asset and freight management system that help to keep track of all the vehicles, and also to create a work order that will help the truck driver to go and pick up the load and deliver it to the delivery location. Once the load is delivered, the controller user can send the work order to the Account department. That Accountant user can generate an invoice for the client and save data to the Pastel Account PostgreSQL database.
 
-> The SmartTrans android app will be used by the driver. It will show the driver where to pickup the load and where to deliver it. Only the driver can login in the android app
+> The driver will use the SmartTrans android app. It will show the driver where to pick up the load and deliver it. Only the driver can log in to the android app.
 
 ## Features implemented so far are:
 
