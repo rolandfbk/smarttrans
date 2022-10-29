@@ -1194,8 +1194,8 @@ font-size: 16px;"> Welcome <?php echo $_SESSION["name"];?> &nbsp;<a href="index.
 													</div>
 													<div class="row">
 														<div align="center" class="col-md-12">
-															<h5>P.O. BOX 12411 | JACOBS, 4026 | 21 INDUSTRIA ST | JACOBS, 4052</h5>
-															<h5>TEL: (031) 4658681/2/3 | (031) 4654916 | (031) 4651063 | FAX: (031) 4658610 | E-mail: knaidu@gantrans.co.za</h5>
+															<h5>P.O. BOX 0000 | JACOBS, 0000 | 00 INDUSTRIA ST | JACOBS, 0000</h5>
+															<h5>TEL: (011) 1234567 | (011) 1234567 | (011) 1234567 | FAX: (011) 1234567 | E-mail: info@test.com</h5>
 														</div>
 													</div>
 													<div class="row">

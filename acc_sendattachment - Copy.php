@@ -21,11 +21,11 @@ for($i=0;$i<$rowCount;$i++)
 }
 
 $mail->AddAddress($email);
-$mail->From = "info@gantrans.co.za";
-$mail->FromName = "Gantrans";
+$mail->From = "info@xxx.co.za";
+$mail->FromName = "SmartTrans";
 $mail->Subject = 'Attachment';
 
-$mail->Body = "Attachment fron Grantrans";
+$mail->Body = "Attachment fron SmartTrans";
 //$body = preg_replace('/\\\\/','', $body); //Strip backslashes
 //$mail->MsgHTML($body);
 
