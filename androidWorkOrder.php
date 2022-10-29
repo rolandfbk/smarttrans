@@ -4,11 +4,14 @@
 	require_once("utility.php");
 	
 	$id = $_GET['id'];
+	//$id = 'driver@test.com';
 	
 	//$id = "joelle@test.com";
 	
 	$stops2 = "";
 	$wo2 = "";
+
+	$number = "";
 	
 	$sql12="select * from controller_user where EMAIL='$id'"	;
 	$result12 = ExecuteQuery($sql12);
@@ -66,9 +69,9 @@
 					'subjects'  => $row2['WORK_ORDER_NUMBER'],
 					'driver'  => $row2['PRODUCT_TYPE'],
 					'pickup'  => $row2['PICKUP_POINT'],
-					'stops'  => $stops,
+					'stops'  => $stops2,
 					
-					'wo'  => $wo,
+					'wo'  => $wo2,
 					'response'  => $row2['DRIVER_RESPONSE'],
 					
 					'work_order_number'  => $row2['WORK_ORDER_NUMBER'],

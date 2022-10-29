@@ -12,7 +12,7 @@
           $password = $_POST['password'];
 		  
 		  // Query database for row exist or not
-          $sql="select * from controller_user where EMAIL='$username' and PASSWORD='$password'"	;
+          $sql="select * from controller_user where EMAIL='$username' and PASSWORD='$password' and USER_TYPE='mobile'"	;
 			$result1 = ExecuteQuery($sql);
           if (mysqli_num_rows($result1)==1)
           {
