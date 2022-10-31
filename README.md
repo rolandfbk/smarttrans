@@ -47,7 +47,16 @@ Setup
 
 [Live Demo Link](https://cheapprice.co.za/smarttrans/)
 
+Admin Credentials:
 Username: admin@test.com
+Password: 123456
+
+Controller Credentials:
+Username: controller@test.com
+Password: 123456
+
+Account Credentials:
+Username: account@test.com
 Password: 123456
 
 
