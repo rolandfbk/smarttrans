@@ -47,6 +47,9 @@ Setup
 
 [Live Demo Link](https://cheapprice.co.za/smarttrans/)
 
+Username: admin@test.com
+Password: 123456
+
 
 ## Author
 
